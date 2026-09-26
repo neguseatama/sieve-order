@@ -222,6 +222,5 @@ MIT License. See [LICENSE](LICENSE).
 ## 👤 Author
 
 **Kai IWASAKI**  
-Email: `neguse.cat@gmail.com`
 
 ---
