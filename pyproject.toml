@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sieve-order"
+version = "1.1.0"
+description = "Deterministic structural observation of Japanese and English AI prompts"
+requires-python = ">=3.10"
+authors = [
+    { name = "Kai IWASAKI", email = "neguse.cat@gmail.com" }
+]
+license = { file = "LICENSE" }
+
+[tool.setuptools.packages.find]
+include = ["sieve_order*"]
